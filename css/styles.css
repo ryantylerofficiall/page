@@ -1,0 +1,43 @@
+#title {background-color: #FF9F29;}
+}
+h1{
+  font-family: Montserrat-black;
+  size:3rem;
+  line-height: 1.5
+}
+h3{
+  color: #FF9F29;
+}
+body {
+  text-align: center;
+        }
+img {height:200px; }
+.details{
+  background-color: #ff4c68
+}
+
+.work{
+  color: #FF9F29;
+}
+#education{
+  color: white;
+}
+#contact{
+  color: white;}
+
+.container{
+  background-color: #FF9F29;
+}
+.container-fluid{
+  background-color: white;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+.container-1{
+  background-color: #FF9F29;
+  padding-bottom: 4%;
+  padding-top: 5%;
+}
+.number{
+  color: white;
+}
